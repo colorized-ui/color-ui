@@ -9,4 +9,3 @@ Install @color-ui using the followed command
 ```bash
     npm install @color-ui @emotion/react^11 @emotion/styled^11
 ```
-"# -colorized-ui" 
