@@ -1,6 +1,6 @@
 import React from "react";
 import { ComponentStory, ComponentMeta } from "@storybook/react";
-import Stack from "../components/Containers/Stack/Stack";
+import Stack from "../components/Containers/Stack";
 
 export default {
   title: "@color-ui/Stack",
