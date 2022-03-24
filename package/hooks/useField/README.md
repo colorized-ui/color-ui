@@ -8,7 +8,7 @@ A hook for handle your inputs
 import {useField} from '@color-ui/useField'
 
 function Form() {
-    const userame = useField({type: 'text'})
+    const username = useField({type: 'text'})
     const password = useField({type: 'text'})
 
   <form>
